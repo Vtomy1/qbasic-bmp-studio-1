@@ -1,0 +1,7 @@
+{
+  "name": "QBasic BMP Studio - Retro Image Converter & Code Generator",
+  "description": "Convert images to 1-bit, 4-bit, 8-bit, and 24-bit BMP files with retro dithering algorithms, binary header inspection, and ready-to-run QBasic/QuickBASIC loader and saver code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
